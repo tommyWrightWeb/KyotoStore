@@ -1107,7 +1107,10 @@ a.navbar-brand{
    width: 90px;
 }
 
-
+.logo{
+   width: 60px;
+   height: 60px;
+}
    }
 
 
